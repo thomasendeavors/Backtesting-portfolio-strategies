@@ -38,8 +38,8 @@ This highlights the importance of asset class diversification in portfolio manag
 - Diversification across asset classes improves portfolio resilience.
 
 ##
-![equity curve](Portfolio Strategies Backtest.png)
-![Correlation Matrix](Correlation Matrix of Assets.png)
+![equity curve](portfolio_strategies_backtest.png)
+![Correlation Matrix](correlation_matrix_of_assets.png)
 
 
 ## 
@@ -53,6 +53,7 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 
 pip install -r requirements.txt
+
 
 
 
