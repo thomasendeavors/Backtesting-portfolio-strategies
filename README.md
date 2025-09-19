@@ -37,8 +37,15 @@ This highlights the importance of asset class diversification in portfolio manag
 - **Asian equities( Tsmc,Toyota)** underperformed, partly due to higher volatility and slower recovery post-pandemic.  
 - Diversification across asset classes improves portfolio resilience.
 
+##
+![equity curve](Portfolio Strategies Backtest.png)
+![Correlation Matrix](Correlation Matrix of Assets.png)
+
+
+
 ---
-##Author 
+##
+Author 
 Developped by *[Thomas.R]* as a personal initiative project to explore portfolio management.
 ## 🛠️ Installation
 Clone the repository and install dependencies:
@@ -46,4 +53,5 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
+
 pip install -r requirements.txt
