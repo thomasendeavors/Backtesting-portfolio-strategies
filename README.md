@@ -41,12 +41,10 @@ This highlights the importance of asset class diversification in portfolio manag
 ![equity curve](Portfolio Strategies Backtest.png)
 ![Correlation Matrix](Correlation Matrix of Assets.png)
 
-
-
----
-##
-Author 
+--
+## 
 Developped by *[Thomas.R]* as a personal initiative project to explore portfolio management.
+
 ## 🛠️ Installation
 Clone the repository and install dependencies:
 
@@ -55,4 +53,5 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 
 pip install -r requirements.txt
+
 
